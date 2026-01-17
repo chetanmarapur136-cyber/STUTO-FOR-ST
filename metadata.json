@@ -1,0 +1,8 @@
+{
+  "name": "STUTO",
+  "description": "An all-in-one student life manager for tracking attendance, marks, expenses, and study insights with AI-powered analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
